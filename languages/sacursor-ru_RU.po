@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SA Custom Cursor\n"
+"POT-Creation-Date: 2023-11-14 14:52+0300\n"
+"PO-Revision-Date: 2023-11-14 14:52+0300\n"
+"Last-Translator: \n"
+"Language-Team: SA-Studio\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: sacursor-function.php:20
+msgid "Настройки"
+msgstr "Настройки"
+
+#: sacursor-function.php:88
+msgid "Если вам понравился плагин, буду благодарен за материальную поддержку"
+msgstr "Если вам понравился плагин, буду благодарен за материальную поддержку"
+
+#: sacursor-function.php:88
+msgid "Поддержать"
+msgstr "Поддержать"
+
+#: sacursor-function.php:92
+msgid "SA Сustom Cursor - Настройки"
+msgstr "SA Сustom Cursor - Настройки"
+
+#: sacursor-function.php:98
+msgid "Активировать настройки"
+msgstr "Активировать настройки"
+
+#: sacursor-function.php:98
+msgid "При активации применяет настройки на сайте."
+msgstr "При активации применяет настройки на сайте."
+
+#: sacursor-function.php:103
+msgid "Основной курсор"
+msgstr "Основной курсор"
+
+#: sacursor-function.php:104
+msgid "Второстепенный курсор"
+msgstr "Второстепенный курсор"
+
+#: sacursor-function.php:105
+msgid "Парметры"
+msgstr "Парметры"
+
+#: sacursor-function.php:110 sacursor-function.php:155
+msgid "Цвет"
+msgstr "Цвет"
+
+#: sacursor-function.php:115 sacursor-function.php:166
+msgid "Размеры"
+msgstr "Размеры"
+
+#: sacursor-function.php:117 sacursor-function.php:126
+#: sacursor-function.php:168
+msgid "Ширина"
+msgstr "Ширина"
+
+#: sacursor-function.php:118 sacursor-function.php:127
+#: sacursor-function.php:169
+msgid "Высота"
+msgstr "Высота"
+
+#: sacursor-function.php:119 sacursor-function.php:170
+msgid "Закругление углов"
+msgstr "Закругление углов"
+
+#: sacursor-function.php:124
+msgid "Размеры при наведении"
+msgstr "Размеры при наведении"
+
+#: sacursor-function.php:132 sacursor-function.php:161
+msgid "Прозрачность"
+msgstr "Прозрачность"
+
+#: sacursor-function.php:138
+msgid "Активировать второстепенный курсор"
+msgstr "Активировать второстепенный курсор"
+
+#: sacursor-function.php:138
+msgid "При активации активируется дополнительный объект за курсором."
+msgstr "При активации активируется дополнительный объект за курсором."
+
+#: sacursor-function.php:143
+msgid "Включить изображение"
+msgstr "Включить изображение"
+
+#: sacursor-function.php:143
+msgid "Можно добавить изображение за курсором."
+msgstr "Можно добавить изображение за курсором."
+
+#: sacursor-function.php:149
+msgid "Изображение"
+msgstr "Изображение"
+
+#: sacursor-function.php:150 sacursor-function.php:212
+#: sacursor-function.php:214
+msgid "Выбрать изображение"
+msgstr "Выбрать изображение"
+
+#: sacursor-function.php:176
+msgid "Селекторы наведения"
+msgstr "Селекторы наведения"
+
+#: sacursor-function.php:176
+msgid ""
+"Введите через запятую селекторы, при наведении на которые будет "
+"отрабатываться как hover. Например: a, div, #block, .new-block и т.д. По "
+"умолчанию: a, button"
+msgstr ""
+"Введите через запятую селекторы, при наведении на которые будет "
+"отрабатываться как hover. Например: a, div, #block, .new-block и т.д. По "
+"умолчанию: a, button"
+
+#: sacursor-function.php:189
+msgid "Предпросмотр"
+msgstr "Предпросмотр"
+
+#: sacursor-function.php:228
+msgid "Наведи на меня"
+msgstr "Наведи на меня"
+
+#: sacursor-function.php:230
+msgid "Что бы увидеть изменения сохрани настройки"
+msgstr "Что бы увидеть изменения сохрани настройки"

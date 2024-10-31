@@ -1,0 +1,40 @@
+* {
+	cursor: none !important;
+}
+.cursor-new {
+	position: fixed;
+	top: 0;
+	left: -100px;
+	overflow: visible;
+	z-index: 999999999;
+	pointer-events: none;
+}
+.cursor-new:after {
+	content:'';
+	position: absolute;
+	top: 0;
+	left: 0;
+	transform: translate(-50%,-50%);
+	-webkit-transition: .3s ease;
+	-moz-transition: .3s ease;
+	-ms-transition: .3s ease;
+	-o-transition: .3s ease;
+	transition: .3s ease;
+}
+.cursor-zad {
+	position: fixed;
+	top: 0;
+	left: -100px; 
+	overflow: visible;
+	z-index: 999999998;
+	pointer-events: none;
+	transition: 0.09s linear;
+	opacity: 0;
+}
+.cursor-zad:after {
+	content: '';
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+}
